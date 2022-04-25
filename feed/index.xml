@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Terra e Identità</title>
+	<atom:link href="http://https://fabiusminimus.github.io/Terra-e-Identita/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://fabiusminimus.github.io/Terra-e-Identita</link>
+	<description>per conoscere la storia delle nostre terre</description>
+	<lastBuildDate>Fri, 22 Apr 2022 13:27:43 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>http://https://fabiusminimus.github.io/Terra-e-Identita/wp-content/uploads/2022/04/teilogo.jpg</url>
+	<title>Terra e Identità</title>
+	<link>http://https://fabiusminimus.github.io/Terra-e-Identita</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ciao mondo!</title>
+		<link>http://https://fabiusminimus.github.io/Terra-e-Identita/2022/04/20/ciao-mondo/</link>
+					<comments>http://https://fabiusminimus.github.io/Terra-e-Identita/2022/04/20/ciao-mondo/#comments</comments>
+		
+		<dc:creator><![CDATA[Admin-FR]]></dc:creator>
+		<pubDate>Wed, 20 Apr 2022 15:48:19 +0000</pubDate>
+				<category><![CDATA[Storia]]></category>
+		<guid isPermaLink="false">http://https://fabiusminimus.github.io/Terra-e-Identita/?p=1</guid>
+
+					<description><![CDATA[<p>Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o cancellalo e quindi inizia a scrivere!</p>
+<p>L'articolo <a rel="nofollow" href="http://https://fabiusminimus.github.io/Terra-e-Identita/2022/04/20/ciao-mondo/">Ciao mondo!</a> proviene da <a rel="nofollow" href="http://https://fabiusminimus.github.io/Terra-e-Identita">Terra e Identità</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o cancellalo e quindi inizia a scrivere!</p>
+<p>L'articolo <a rel="nofollow" href="http://https://fabiusminimus.github.io/Terra-e-Identita/2022/04/20/ciao-mondo/">Ciao mondo!</a> proviene da <a rel="nofollow" href="http://https://fabiusminimus.github.io/Terra-e-Identita">Terra e Identità</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://https://fabiusminimus.github.io/Terra-e-Identita/2022/04/20/ciao-mondo/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
