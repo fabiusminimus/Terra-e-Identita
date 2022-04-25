@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'wpzoom-socicon';
-    src:  url('/https://fabiusminimus.github.io/Terra-e-Identita/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.eot?v=4.1.1');
-    src:  url('/https://fabiusminimus.github.io/Terra-e-Identita/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.eot?v=4.1.1') format('embedded-opentype'),
-      url('/https://fabiusminimus.github.io/Terra-e-Identita/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.ttf?v=4.1.1') format('truetype'),
-      url('/https://fabiusminimus.github.io/Terra-e-Identita/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff?v=4.1.1') format('woff'),
-      url('/https://fabiusminimus.github.io/Terra-e-Identita/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.svg?v=4.1.1#socicon') format('svg');
+    src:  url('http://fabiusminimus.github.io/Terra-e-Identita/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.eot?v=4.1.1');
+    src:  url('http://fabiusminimus.github.io/Terra-e-Identita/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.eot?v=4.1.1') format('embedded-opentype'),
+      url('http://fabiusminimus.github.io/Terra-e-Identita/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.ttf?v=4.1.1') format('truetype'),
+      url('http://fabiusminimus.github.io/Terra-e-Identita/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.woff?v=4.1.1') format('woff'),
+      url('http://fabiusminimus.github.io/Terra-e-Identita/wp-content/plugins/social-icons-widget-by-wpzoom/assets/font/socicon.svg?v=4.1.1#socicon') format('svg');
     font-weight: normal;
     font-style: normal;
     text-transform: initial;
